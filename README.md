@@ -1,8 +1,8 @@
 # DOS Project 1
 
+Hemanth Kumar Malyala
+Gopichand Kommineni  
 
-Gopichand Kommineni         UFID 0305-5523
-Hemanth Kumar Malyala       UFID 6348-5914
 We implemented 
 
 # Gossip Algorithm
